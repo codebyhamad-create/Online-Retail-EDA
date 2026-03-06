@@ -3,6 +3,9 @@
 Exploratory data analysis of the Online Retail II dataset from UCI/Kaggle. This project covers data quality assessment, feature engineering, time series analysis, customer segmentation (RFM), cohort retention, and clustering.
 
 ## Dataset
+The raw and processed dataset files were not uploaded because their size exceeds GitHub’s file size limit. If you need access to the datasets, feel free to contact me on LinkedIn.
+Additionally, when you run the project files, the datasets will be generated and automatically saved by Python in their respective folders.
+Thank you.
 
 - **Source:** [Kaggle - Online Retail II](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci) or [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/online+retail+II)
 - **Description:** Real transactional data from a UK-based online retailer spanning two years of global sales
@@ -52,3 +55,4 @@ See `reports/executive_summary.md` for business-oriented insights and recommenda
 ## License
 
 MIT (optional)
+
